@@ -45,10 +45,11 @@ Column Name	Type	Description
 الرقم	Numerical	Property ID (Index)
 ________________________________________
 6. Dataset Preprocessing
-Before using this dataset for machine learning, preprocessing steps were applied:
-•	Converted سعر الليلة (Price per Night) from text to numerical format.
-•	Checked and handled missing values.
-•	Encoded categorical features where necessary.
+Before using this dataset for machine learning, the following preprocessing steps were applied:
+
+Checked for missing values and confirmed that the dataset is complete.
+Generated summary statistics to understand the distribution of numerical features.
+Performed exploratory data analysis (EDA) to visualize key variables.
 ________________________________________
 7. Team Members & Roles
 Name	Role
