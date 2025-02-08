@@ -42,7 +42,7 @@ This project focuses on **analyzing and predicting real estate rental prices** u
 | **Noura Alhumaid statistical summaries & Documentation |
 | **Mashael Alqabbani** | Dataset Description & Source Information |
 | **Asma Alshehri** | Data Exploration & Visualization |
-| **Walah Alhmemedy** | Data Preprocessing && Visualization|
-| **Sarah Alkanhal** | Data Preprocessing |
+| **Walah Alhmemedy** | Data Preprocessing|
+| **Sarah Alkanhal** | Data Preprocessing & Visualization|
 
 ---
