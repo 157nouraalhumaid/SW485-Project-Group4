@@ -1,4 +1,4 @@
-# **SW485-Project-Group10: Real Estate Rental Price Analysis**
+# **SW485-Project-Group4: Real Estate Rental Price Analysis**
 
 ## **📌 Project Overview**
 This project focuses on **analyzing and predicting real estate rental prices** using **machine learning techniques**. The goal is to develop a recommendation system that helps **renters and property owners** understand **pricing trends, property demand, and market behavior** based on attributes like **location, property type, ratings, and rental cost**.
