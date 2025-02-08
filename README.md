@@ -39,7 +39,7 @@ This project focuses on **analyzing and predicting real estate rental prices** u
 ## **👥 Team Members**
 | Name | Role |
 |------|------|
-| **Noura Alhumaid** | Data Preprocessing & Documentation |
+| **Noura Alhumaid statistical summaries & Documentation |
 | **Mashael Alqabbani** | Dataset Description & Source Information |
 | **Asma Alshehri** | Data Exploration & Visualization |
 | **Walah Alhmemedy** | Data Preprocessing |
